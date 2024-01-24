@@ -1,7 +1,7 @@
 # Blockhain
 ## Assignment 2 Kairkhanov Abylaikhan SE-2221
 
-**Usage**
+### Usage
 For this assignment i use Goerli Testnet, which i deployed to Metamask.
 The script connects to the Ethereum network, interacts with a smart contract by calling one of its functions, and sends a transaction with the specified parameters. The process is asynchronous, and the result or any errors are logged to the console.
 
