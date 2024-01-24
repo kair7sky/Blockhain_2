@@ -5,8 +5,12 @@
 For this assignment i use Goerli Testnet, which i deployed to Metamask.
 The script connects to the Ethereum network, interacts with a smart contract by calling one of its functions, and sends a transaction with the specified parameters. The process is asynchronous, and the result or any errors are logged to the console.
 
+
 **Licence**
 https://github.com/OpenZeppelin/openzeppelincontracts/blob/master/LICENSE
+
+
+
 
 **Screenshots**
 ![image](https://github.com/kair7sky/Blockhain_2/assets/118976474/bb3cb361-6247-424b-be37-ce9737476ffb)
