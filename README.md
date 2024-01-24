@@ -1,2 +1,2 @@
-# Blockhain_2
-assignment 2
+# Blockhain
+## Assignment 2 Kairkhanov Abylaikhan SE-2221
