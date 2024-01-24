@@ -12,7 +12,7 @@ https://github.com/OpenZeppelin/openzeppelincontracts/blob/master/LICENSE
 
 
 
-**Screenshots**
+#### Screenshots
 ![image](https://github.com/kair7sky/Blockhain_2/assets/118976474/bb3cb361-6247-424b-be37-ce9737476ffb)
 ![image](https://github.com/kair7sky/Blockhain_2/assets/118976474/b48ee202-d07d-4f3e-8797-b2eaa1cea62e)
 ![image](https://github.com/kair7sky/Blockhain_2/assets/118976474/5bcdc37b-8bf2-469b-abae-d38b34751c4e)
